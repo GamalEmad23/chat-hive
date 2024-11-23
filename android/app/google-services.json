@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045096010571",
+    "project_id": "chathive-707fa",
+    "storage_bucket": "chathive-707fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045096010571:android:1e51b9e1c5ec1b58bdcece",
+        "android_client_info": {
+          "package_name": "com.example.chat_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTy7Rr46B8Zw4a68bFt7uHaz90fEBpLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
